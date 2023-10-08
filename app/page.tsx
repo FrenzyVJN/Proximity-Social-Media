@@ -1,6 +1,5 @@
 import {BiSolidUserCircle,BiSolidKey} from 'react-icons/bi'
 function page() {
-
     return ( 
         <main className='flex w-full h-full justify-center '>
 {/*          <div className='flex flex-col w-1/2 h-full justify-center items-center'>
