@@ -3,7 +3,7 @@ import {IoSend} from 'react-icons/io5';
 //Social Media Header
 function Header() {
     return ( 
-        <header className="flex fixed w-full items-center bg-gradient-to-r from-cyan-800 to-blue-800 text-white p-5 animate-movingBg">
+        <header className="flex fixed w-full items-center bg-gradient-to-b from-cyan-400 to-blue-800 text-white p-5 animate-movingBg">
             <h1 className="flex items-end h-20 font-bold text-4xl"><FiFacebook className=" h-full w-fit"/>r e n z y</h1>
             <form className='flex w-1/2 ml-auto h-1/3'>
                 <input className="flex bg-black bg-opacity-30  py-3 px-4 w-full text-2xl font-semibold rounded-l-xl  outline-none" placeholder="Search for a friend" />
