@@ -24,7 +24,7 @@ function page() {
                         <label className='w-fit h-full p-3 bg-black-500 rounded-l-xl '><BiSolidKey className="h-full w-fit fill-white "/></label>
                         <input className="w-full text-white font-semibold text-2xl py-4 pl-2 bg-transparent  rounded-xl outline-none" placeholder="Password" />
                     </span> */}
-                    <Link href="/next" className="w-1/3 text-xl bg-gradient-to-b from-cyan-600 to-blue-500 hover:bg-gradient-to-b hover:from-cyan-400 hover:to-blue-600 hover:scale-105 transition-transform  py-4 rounded-xl text-white font-semibold ">
+                    <Link href="/next" className="w-1/3 text-xl bg-gradient-to-b from-cyan-600 to-blue-500 hover:bg-gradient-to-b hover:from-cyan-400 hover:to-blue-600 hover:scale-105 transition-transform  py-4 rounded-xl text-center text-white font-semibold ">
                         Next
                     </Link>
                 </form>
